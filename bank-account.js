@@ -1,5 +1,5 @@
 //Bank Account Script
-//Author: abains-src
+//Author: ab-src
 
 //initialize accounts object
 var accounts = [];
